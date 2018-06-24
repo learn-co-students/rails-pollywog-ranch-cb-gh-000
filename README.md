@@ -1,4 +1,4 @@
-# Rails Pollywog Ranch Lab
+ss# Rails Pollywog Ranch Lab
 
 ![tadpoles and frogs](https://raw.githubusercontent.com/learn-co-curriculum/rails-pollywog-ranch/master/app/assets/images/intro-image.jpeg)
 
